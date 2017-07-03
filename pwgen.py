@@ -30,4 +30,4 @@ for i in range(PASSWORD_LENGTH):
 my_password = update_password(my_password, "@")
 my_password = update_password(my_password, random.randrange(0,9))
 
-print my_password
+print (my_password)
